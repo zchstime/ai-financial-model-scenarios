@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI财务模型与情景推演"
+  short_description: "建立驱动因子、预测模型、敏感性分析与经营决策情景推演框架"
+  default_prompt: "Use -financial-model-scenarios to build a financial forecast and scenario model."
